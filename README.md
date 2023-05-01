@@ -10,3 +10,6 @@ In this repository are stored the following:
 2) The original paper written for the Digital Humanities in Practice course;
 
 3) The original poster presented at the end of the aforementioned course.
+
+
+In case of mistakes to report, please contact Guilherme Arashiro: gui.arashiro@hotmail.com and Shuai Wang: shuai.wang@vu.nl and Xander Wilcke w.x.wilcke}@vu.nl.
